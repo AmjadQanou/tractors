@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tractors/static/css/main.e031364c.css",
+    "main.js": "/tractors/static/js/main.8f1e9b66.js",
+    "index.html": "/tractors/index.html",
+    "main.e031364c.css.map": "/tractors/static/css/main.e031364c.css.map",
+    "main.8f1e9b66.js.map": "/tractors/static/js/main.8f1e9b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e031364c.css",
+    "static/js/main.8f1e9b66.js"
+  ]
+}
